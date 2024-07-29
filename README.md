@@ -1,4 +1,4 @@
-# Mosaic React
+# Onveta React - All in one
 
 React landing page template designed by MD Readul.
 
